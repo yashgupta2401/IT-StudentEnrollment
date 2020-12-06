@@ -12,7 +12,7 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 ***After Starting Apache and MySQL in XAMPP, follow the following steps.***
 
 1. Extract file.
-2. Copy the main project folder.
+2. Rename to 'studentenroll' and copy the main project folder.
 3. Paste in C/xampp/htdocs/.
 4. Open a browser and go to URL “http://localhost/phpmyadmin/”.
 5. Then, click on the databases tab.
