@@ -48,11 +48,15 @@ In this project 3 user are created where 2 are 'inactive' and only 1 is 'active'
 * http://localhost/studentenroll/admin/index.php?page=all-student
  
 
+## ScreenPrints
+![](screenprints/SP1.PNG)
 
+![](screenprints/SP2.PNG)
 
+![](screenprints/SP3.PNG)
 
+![](screenprints/SP4.PNG)
 
+![](screenprints/SP5.PNG)
 
-
-
-
+![](screenprints/SP6.PNG)
