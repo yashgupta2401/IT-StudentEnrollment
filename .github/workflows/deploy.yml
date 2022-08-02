@@ -1,4 +1,4 @@
-ame: Push-to-EC2
+name: Push-to-EC2
 
 on: push
 
