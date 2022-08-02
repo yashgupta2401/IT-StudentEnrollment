@@ -16,6 +16,6 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{ secrets.EC2_SSH_KEY }}
           SOURCE: "./"
-          REMOTE_HOST: "34.68.179.173"
+          REMOTE_HOST: "34.129.229.253"
           REMOTE_USER: "ashervmanangan"
           TARGET: "/app/web/IT-StudentEnrollment"
