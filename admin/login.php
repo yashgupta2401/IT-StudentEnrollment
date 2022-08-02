@@ -24,7 +24,8 @@ if (isset($_POST['login'])) {
 		$result = mysqli_query($db_con, $query);
 		if (mysqli_num_rows($result) == 1) {
 			$row = mysqli_fetch_assoc($result);
-			if ($row['password'] == sha1(md5($password))) {
+			// if ($row['password'] == sha1(md5($password))) {
+			if ($row['password'] == $password) {
 				if ($row['status'] == 'active') {
 					$_SESSION['user_login'] = $username;
 					header('Location: index.php');

@@ -77,11 +77,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `username`, `password`, `photo`, `status`, `datetime`) VALUES
-(1, 'Asher Manangan', 'ashermanangan@gmail.com', 'asher-admin', 'asher-admin', 'asher1.jpg', 'active', '2020-12-05 16:09:53'),
-(2, 'Andrew Ferrer', 'andrewferrer@gmail.com', 'andrew-admin', 'andrew-admin', 'andrew1.jpg', 'active', '2020-12-05 16:09:53'),
-(3, 'Kenneth Cayas', 'kennethcayas@gmail.com', 'kenneth-admin ', 'kenneth-admin', 'kenneth1.jpg', 'active', '2020-12-05 16:09:53'),
-(4, 'Jari Parial', 'jariparial0@gmail.com', 'jari-admin', 'jari-admin', 'jari1.jpg', 'active', '2020-12-05 16:09:53'),
-(5, 'Philip Lababo', 'philipcarlo@gmail.com', 'philip-admin', 'philip-admin', 'philip1.jpg', 'active', '2020-12-05 16:09:53');
+(1, 'Asher Manangan', 'ashermanangan@gmail.com', 'asher-admin', 'asher-admin', 'asher1.png', 'active', '2020-12-05 16:09:53'),
+(2, 'Andrew Ferrer', 'andrewferrer@gmail.com', 'andrew-admin', 'andrew-admin', 'andrew1.png', 'active', '2020-12-05 16:09:53'),
+(3, 'Kenneth Cayas', 'kennethcayas@gmail.com', 'kenneth-admin ', 'kenneth-admin', 'kenneth1.png', 'active', '2020-12-05 16:09:53'),
+(4, 'Jari Parial', 'jariparial0@gmail.com', 'jari-admin', 'jari-admin', 'jari1.png', 'active', '2020-12-05 16:09:53'),
+(5, 'Philip Lababo', 'philipcarlo@gmail.com', 'philip-admin', 'philip-admin', 'philip1.png', 'active', '2020-12-05 16:09:53');
 --
 -- 
 --
