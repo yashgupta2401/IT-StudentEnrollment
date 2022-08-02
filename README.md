@@ -2,6 +2,8 @@
 ###### Submitted by-
 ###### Yash Gupta (19MCMC47)
 
+## Visit the URL
+https://wanporuniversity.ga
 ## Use Github Actions
 https://github.com/easingthemes/ssh-deploy
 
@@ -27,11 +29,13 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 ***Now Open your Brower and Type (http://localhost/studentenroll/)***
 
 ## Login Details
-In this project 3 user are created where 2 are 'inactive' and only 1 is 'active', the active one is the admin(I have manually changed status to active/inactive from database)
+)
 1. Active Admin
 
        * Username:andrew-admin
          Password:andrew-admin
+
+         (e.g. kenneth-admin, asher-admin, jari-admin, philip-admin)
 
 
 ## Features
