@@ -1,7 +1,7 @@
 <?php
 define('DBHOST', 'localhost');
-define('DBUSER', 'root');
+define('DBUSER', 'wanpor-admin');
 define('DBNAME', 'student');
 
 
-$db_con = mysqli_connect(DBHOST, DBUSER, '', DBNAME);
+$db_con = mysqli_connect(DBHOST, DBUSER, 'wanpor-admin', DBNAME);
