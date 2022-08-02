@@ -18,4 +18,4 @@ jobs:
           SOURCE: "./"
           REMOTE_HOST: "34.68.179.173"
           REMOTE_USER: "ashervmanangan"
-          TARGET: "/app/web"
+          TARGET: "/app/web/IT-StudentEnrollment"
