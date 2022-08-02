@@ -43,14 +43,14 @@ In this project 3 user are created where 2 are 'inactive' and only 1 is 'active'
  
 
 ## ScreenPrints
-![](screenprints/SP1.PNG)
+![](screenprints/SP1.PNG1)
 
-![](screenprints/SP2.PNG)
+![](screenprints/SP2.PNG1)
 
-![](screenprints/SP3.PNG)
+![](screenprints/SP3.PNG1)
 
-![](screenprints/SP4.PNG)
+![](screenprints/SP4.PNG1)
 
-![](screenprints/SP5.PNG)
+![](screenprints/SP5.PNG1)
 
-![](screenprints/SP6.PNG)
+![](screenprints/SP6.PNG1)
