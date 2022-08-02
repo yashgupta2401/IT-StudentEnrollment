@@ -43,17 +43,17 @@ CREATE TABLE `student_info` (
 --
 
 INSERT INTO `student_info` (`id`, `name`, `roll`, `class`, `city`, `pcontact`, `photo`, `datetime`) VALUES
-(1, 'Ravi Srivastava', 444430, '1st', 'Lucknow , India', '01912345678', '4444302020-12-05-12-36.jfif', '2020-12-04 16:17:58'),
-(2, 'Rekha Kumari', 444431, '2nd', 'Kanpur, UP', '01812888858', '4444312020-12-05-12-23.jpg', '2020-12-04 16:18:53'),
-(3, 'Shivam Bhisen', 444350, '5th', 'Lucknow, UP', '01797159600', '4443502020-12-05-12-11.jpg', '2020-12-04 16:19:28'),
-(4, 'Abdul Azim', 444432, '2nd', 'Bhopal, MP ', '01797159600', '4444322020-12-05-12-59.jpg', '2020-12-04 16:19:51'),
-(5, 'Madhu Singh', 443353, '3rd', 'Bareilly, UP', '01814270541', '4433532020-12-05-12-25.jpg', '2020-12-04 16:21:32'),
-(6, 'Priyanka Singh', 444420, '1st', 'Lucknow, UP', '01814270541', '4444202020-12-05-12-43.jfif', '2020-12-04 16:21:32'),
-(7, 'Vasu Gupta', 445699, '3rd', 'Lucknow, India', '01999997765', '4456992020-12-05-12-35.jpg', '2020-12-05 16:13:35'),
-(8, 'Devika Chaste', 444434, '4th', 'Hyderabad,India', '01999999453', '4444342020-12-05-12-18.jpg', '2020-12-05 16:15:18'),
-(9, 'Puneet Kumar', 444445, '3rd', 'Lucknow, India', '01999999460', '4444452020-12-05-12-17.jpg', '2020-12-05 16:16:17'),
-(10, 'Ankita Thakur', 444438, '5th', 'Delhi , India', '01999999948', '4444382020-12-05-12-09.jpg', '2020-12-05 16:17:09'),
-(11, 'Riya Kumari', 444491, '4th', 'Agra, Lucknow', '01999999977', '4444912020-12-06-12-24.jpg', '2020-12-06 11:40:24');
+(1, 'Russel Mención', 444430, '1st', 'Sta. Mesa', '09912345678', '1.png', '2020-12-04 16:17:58'),
+(2, 'Kole Mallari', 444431, '2nd', 'Quezon City', '091812888858', '2.png', '2020-12-04 16:18:53'),
+(3, 'Abu Balagtas', 444350, '5th', 'Lucban', '091797159600', '3.png', '2020-12-04 16:19:28'),
+(4, 'Muraoka Isip', 444432, '2nd', 'Subic', '091797159600', '4.png', '2020-12-04 16:19:51'),
+(5, 'Irvin Gil Amparo', 443353, '3rd', 'Cubao', '091814270541', '5.png', '2020-12-04 16:21:32'),
+(6, 'Phillips Dagohoy', 444420, '1st', 'Binondo', '091814270541', '6.png', '2020-12-04 16:21:32'),
+(7, 'Humberto Pancho', 445699, '3rd', 'Baler', '091999997765', '7.png', '2020-12-05 16:13:35'),
+(8, 'Cojuangco Alonzo', 444434, '4th', 'Olongapo', '091999999453', '8.png', '2020-12-05 16:15:18'),
+(9, 'Orlando Kumulitog Soler', 444445, '3rd', 'Pasig', '091999999460', '9.png', '2020-12-05 16:16:17'),
+(10, 'Tristen Drew Gahol', 444438, '5th', 'Taiwan', '091999999948', '10.png', '2020-12-05 16:17:09'),
+(11, 'Edgardo Cueva', 444491, '4th', 'Mexico', '091999999977', '11.png', '2020-12-06 11:40:24');
 
 -- --------------------------------------------------------
 
@@ -77,10 +77,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `username`, `password`, `photo`, `status`, `datetime`) VALUES
-(1, 'Yash Gupta', 'gupta.yash2410@gmail.com', 'yash1234', '5b07967c1746831fe66b04b26fd2a7b2c92c5188', 'yash1234.jpg', 'active', '2020-12-05 16:09:53'),
-(3, 'Yogesh Kumar', 'yogesh@gmail.com', 'yogesh1234', 'f0a4d501559789a00695452c68f26dbe553575db', 'yogesh1234.jpg', 'inactive', '2020-12-05 16:21:36'),
-(4, 'Saurabh ', 'sarbh@gmail.com', 'saurabh1234', 'c84f6c83c489f422055ff7c5d83880a72db1280e', 'saurabh1234.jfif', 'inactive', '2020-12-05 16:23:24');
-
+(1, 'Asher Manangan', 'ashermanangan@gmail.com', 'asher-admin', 'asher-admin', 'asher1.jpg', 'active', '2020-12-05 16:09:53'),
+(2, 'Andrew Ferrer', 'andrewferrer@gmail.com', 'andrew-admin', 'andrew-admin', 'andrew1.jpg', 'active', '2020-12-05 16:09:53'),
+(3, 'Kenneth Cayas', 'kennethcayas@gmail.com', 'kenneth-admin ', 'kenneth-admin', 'kenneth1.jpg', 'active', '2020-12-05 16:09:53'),
+(4, 'Jari Parial', 'jariparial0@gmail.com', 'jari-admin', 'jari-admin', 'jari1.jpg', 'active', '2020-12-05 16:09:53'),
+(5, 'Philip Lababo', 'philipcarlo@gmail.com', 'philip-admin', 'philip-admin', 'philip1.jpg', 'active', '2020-12-05 16:09:53');
 --
 -- 
 --
