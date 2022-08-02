@@ -4,7 +4,7 @@ on: push
 
 jobs:
   deploy:
-    name: Push to EC2 Instance / Fix 3
+    name: Push to EC2 Instance / Fix 4
     runs-on: ubuntu-latest
 
     steps:
