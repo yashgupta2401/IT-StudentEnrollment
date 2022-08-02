@@ -87,7 +87,8 @@ if (isset($_POST['register'])) {
 		}
 
 		body {
-			background-image: url("../form2.jpg");
+			background-color: #f0ecdc;
+    		font-family: Source Sans Pro;
 			height: 100%;
 			background-position: center;
 			background-repeat: no-repeat;
