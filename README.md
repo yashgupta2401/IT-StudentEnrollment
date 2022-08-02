@@ -2,6 +2,10 @@
 ###### Submitted by-
 ###### Yash Gupta (19MCMC47)
 
+## Use Github Actions
+https://github.com/easingthemes/ssh-deploy
+
+
 ## About Project 
 The Student Enrollment System is a simple IT-project for keeping records of students. The admin can manage all the management like adding student’s details, editing the details if required, and view the enrolled student’s information. Admin has an important role in the management of this system. Admin has to be in active state to use this feature
 

@@ -43,17 +43,17 @@ CREATE TABLE `student_info` (
 --
 
 INSERT INTO `student_info` (`id`, `name`, `roll`, `class`, `city`, `pcontact`, `photo`, `datetime`) VALUES
-(1, 'Russel Mención', 444430, '1st', 'Sta. Mesa', '09912345678', '1.png', '2020-12-04 16:17:58'),
-(2, 'Kole Mallari', 444431, '2nd', 'Quezon City', '091812888858', '2.png', '2020-12-04 16:18:53'),
-(3, 'Abu Balagtas', 444350, '5th', 'Lucban', '091797159600', '3.png', '2020-12-04 16:19:28'),
-(4, 'Muraoka Isip', 444432, '2nd', 'Subic', '091797159600', '4.png', '2020-12-04 16:19:51'),
-(5, 'Irvin Gil Amparo', 443353, '3rd', 'Cubao', '091814270541', '5.png', '2020-12-04 16:21:32'),
-(6, 'Phillips Dagohoy', 444420, '1st', 'Binondo', '091814270541', '6.png', '2020-12-04 16:21:32'),
-(7, 'Humberto Pancho', 445699, '3rd', 'Baler', '091999997765', '7.png', '2020-12-05 16:13:35'),
-(8, 'Cojuangco Alonzo', 444434, '4th', 'Olongapo', '091999999453', '8.png', '2020-12-05 16:15:18'),
-(9, 'Orlando Kumulitog Soler', 444445, '3rd', 'Pasig', '091999999460', '9.png', '2020-12-05 16:16:17'),
-(10, 'Tristen Drew Gahol', 444438, '5th', 'Taiwan', '091999999948', '10.png', '2020-12-05 16:17:09'),
-(11, 'Edgardo Cueva', 444491, '4th', 'Mexico', '091999999977', '11.png', '2020-12-06 11:40:24');
+(1, 'Russel Mención', 444430, '1st', 'Sta. Mesa', '09912345678', '1.PNG', '2020-12-04 16:17:58'),
+(2, 'Kole Mallari', 444431, '2nd', 'Quezon City', '091812888858', '2.PNG', '2020-12-04 16:18:53'),
+(3, 'Abu Balagtas', 444350, '5th', 'Lucban', '091797159600', '3.PNG', '2020-12-04 16:19:28'),
+(4, 'Muraoka Isip', 444432, '2nd', 'Subic', '091797159600', '4.PNG', '2020-12-04 16:19:51'),
+(5, 'Irvin Gil Amparo', 443353, '3rd', 'Cubao', '091814270541', '5.PNG', '2020-12-04 16:21:32'),
+(6, 'Phillips Dagohoy', 444420, '1st', 'Binondo', '091814270541', '6.PNG', '2020-12-04 16:21:32'),
+(7, 'Humberto Pancho', 445699, '3rd', 'Baler', '091999997765', '7.PNG', '2020-12-05 16:13:35'),
+(8, 'Cojuangco Alonzo', 444434, '4th', 'Olongapo', '091999999453', '8.PNG', '2020-12-05 16:15:18'),
+(9, 'Orlando Kumulitog Soler', 444445, '3rd', 'Pasig', '091999999460', '9.PNG', '2020-12-05 16:16:17'),
+(10, 'Tristen Drew Gahol', 444438, '5th', 'Taiwan', '091999999948', '10.PNG', '2020-12-05 16:17:09'),
+(11, 'Edgardo Cueva', 444491, '4th', 'Mexico', '091999999977', '11.PNG', '2020-12-06 11:40:24');
 
 -- --------------------------------------------------------
 
@@ -77,11 +77,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `username`, `password`, `photo`, `status`, `datetime`) VALUES
-(1, 'Asher Manangan', 'ashermanangan@gmail.com', 'asher-admin', 'asher-admin', 'asher1.png', 'active', '2020-12-05 16:09:53'),
-(2, 'Andrew Ferrer', 'andrewferrer@gmail.com', 'andrew-admin', 'andrew-admin', 'andrew1.png', 'active', '2020-12-05 16:09:53'),
-(3, 'Kenneth Cayas', 'kennethcayas@gmail.com', 'kenneth-admin ', 'kenneth-admin', 'kenneth1.png', 'active', '2020-12-05 16:09:53'),
-(4, 'Jari Parial', 'jariparial0@gmail.com', 'jari-admin', 'jari-admin', 'jari1.png', 'active', '2020-12-05 16:09:53'),
-(5, 'Philip Lababo', 'philipcarlo@gmail.com', 'philip-admin', 'philip-admin', 'philip1.png', 'active', '2020-12-05 16:09:53');
+(1, 'Asher Manangan', 'ashermanangan@gmail.com', 'asher-admin', 'asher-admin', 'asher1.PNG', 'active', '2020-12-05 16:09:53'),
+(2, 'Andrew Ferrer', 'andrewferrer@gmail.com', 'andrew-admin', 'andrew-admin', 'andrew1.PNG', 'active', '2020-12-05 16:09:53'),
+(3, 'Kenneth Cayas', 'kennethcayas@gmail.com', 'kenneth-admin ', 'kenneth-admin', 'kenneth1.PNG', 'active', '2020-12-05 16:09:53'),
+(4, 'Jari Parial', 'jariparial0@gmail.com', 'jari-admin', 'jari-admin', 'jari1.PNG', 'active', '2020-12-05 16:09:53'),
+(5, 'Philip Lababo', 'philipcarlo@gmail.com', 'philip-admin', 'philip-admin', 'philip1.PNG', 'active', '2020-12-05 16:09:53');
 --
 -- 
 --
