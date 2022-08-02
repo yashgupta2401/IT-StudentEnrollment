@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^34\.68\.179\.173$ #http://34.68.179.173/
+RewriteRule ^(.*)$ http://www.example.com/$1 [L,R=301]
