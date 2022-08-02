@@ -1,5 +1,7 @@
- .infotable th, .infotable td {
-    border: 1px solid black;
+
+
+.infotable th, .infotable td {
+    border: 1px solid #722F37;
     border-collapse: collapse;
     padding: 10px 15px;
   }
@@ -7,7 +9,7 @@
       width: 100%;
   }
   .infotable th{
-      background: #000;
+      background: #722F37;
       color: #fff;
   }
   .loginform{

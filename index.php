@@ -11,45 +11,25 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css" />
   <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/index.css">
+  <link href='https://fonts.googleapis.com/css?family=Source Sans Pro' rel='stylesheet'>
   <!--style for overall pagelook-->
-  <style>
-    body,
-    html {
-      height: 110%;
-      margin: 0;
-    }
-
-    body {
-      background-image: url("form2.jpg");
-      height: 100%;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-    }
-
-    table,
-    th,
-    td {
-      border: 1px solid black;
-      padding-top: 5px;
-      padding-bottom: 5px;
-      padding-left: 20px;
-      padding-right: 20px;
-    }
-  </style>
+  
   <title>Student | Enrollment</title>
 </head>
 <!--Student Information-->
 
 <body>
   <div class="container"><br>
+
+    
     <a class="btn btn-primary float-right" href="admin/login.php">Login Here</a>
-    <h1 class="text-center">Welcome to Student Enrollment System</h1><br>
+    <h1 class="navbar-brand">Welcome to Student Enrollment System</h1><br><br><br>
 
     <div class="row">
-      <div class="col-md-4 offset-md-4">
+      <div class="col-md-6 offset-md-3">
         <form method="POST">
-          <table class="text-center infotable">
+          <table class="infotable">
             <tr>
               <th colspan="2">
                 <p class="text-center">Student Information</p>
