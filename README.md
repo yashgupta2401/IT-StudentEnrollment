@@ -53,16 +53,16 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
  
 
 ## ScreenPrints
-![](screenprints/1.png)
+![](screenprints/1.PNG)
 
-![](screenprints/2.png)
+![](screenprints/2.PNG)
 
-![](screenprints/3.png)
+![](screenprints/3.PNG)
 
-![](screenprints/4.png)
+![](screenprints/4.PNG)
 
-![](screenprints/5.png)
+![](screenprints/5.PNG)
 
-![](screenprints/6.png)
+![](screenprints/6.PNG)
 
-![](screenprints/7.png)
+![](screenprints/7.PNG)
