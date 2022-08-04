@@ -1,6 +1,8 @@
 #  Student Enrollment System
 ###### Submitted by-
 ###### Yash Gupta (19MCMC47)
+<br>
+reworked by Ken, Jari, Drew, Ash and Liph
 
 ## Visit the URL
 https://wanporuniversity.ga
@@ -51,14 +53,16 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
  
 
 ## ScreenPrints
-![](screenprints/SP1.PNG1)
+![](screenprints/1.png)
 
-![](screenprints/SP2.PNG1)
+![](screenprints/2.png)
 
-![](screenprints/SP3.PNG1)
+![](screenprints/3.png)
 
-![](screenprints/SP4.PNG1)
+![](screenprints/4.png)
 
-![](screenprints/SP5.PNG1)
+![](screenprints/5.png)
 
-![](screenprints/SP6.PNG1)
+![](screenprints/6.png)
+
+![](screenprints/7.png)
