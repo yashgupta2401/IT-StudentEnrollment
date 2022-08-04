@@ -29,7 +29,7 @@ body,
   }
   .navbar-brand{
     font-size: 35px;
-    text-align: center;
+    margin-left: 270px;
   }
   .row p{
     font-weight: 100;
