@@ -1,5 +1,7 @@
- .infotable th, .infotable td {
-    border: 1px solid black;
+
+
+.infotable th, .infotable td {
+    border: 1px solid #722F37;
     border-collapse: collapse;
     padding: 10px 15px;
   }
@@ -7,7 +9,7 @@
       width: 100%;
   }
   .infotable th{
-      background: #000;
+      background: #722F37;
       color: #fff;
   }
   .loginform{
@@ -30,3 +32,35 @@
       height: 40px;
       width: 40px;
   }  
+
+  .center {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+  .text-wan{
+    font-family: "Lucida Console", monospace;
+    text-align: center;
+  }
+  .text-center{
+    margin-top: 20px;
+    font-family: "Lucida Console", monospace;
+    text-align: center;
+  }
+  .text-btn{
+    text-align: center;
+  }
+  .label-roll{
+    font-family: "Lucida Console", monospace;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: -35px;
+  }
+  .text-class{
+    font-family: "Lucida Console", monospace;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: -35px;
+  }
