@@ -2,6 +2,12 @@
 ###### Submitted by-
 ###### Yash Gupta (19MCMC47)
 
+## Visit the URL
+https://wanporuniversity.ga
+## Use Github Actions
+https://github.com/easingthemes/ssh-deploy
+
+
 ## About Project 
 The Student Enrollment System is a simple IT-project for keeping records of students. The admin can manage all the management like adding student’s details, editing the details if required, and view the enrolled student’s information. Admin has an important role in the management of this system. Admin has to be in active state to use this feature
 
@@ -23,19 +29,15 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 ***Now Open your Brower and Type (http://localhost/studentenroll/)***
 
 ## Login Details
-In this project 3 user are created where 2 are 'inactive' and only 1 is 'active', the active one is the admin(I have manually changed status to active/inactive from database)
-1. Active Admin
+)
+1. Active Admin  
 
-       * Username:yash1234
-         Password:yashgupta
+       * Username:andrew-admin
+         Password:andrew-admin
 
-2. Inactive Admins
+         (e.g. kenneth-admin, asher-admin, jari-admin, philip-admin)
 
-       * Username:saurabh1234
-         Password:yogi1234
 
-       * Username:yogesh1234
-         Password:yogeshkumar
 ## Features
 1. 1st page is index.php (Home page by default). Along with other different pages inside admin.
 2. Effective use of color, images and font and proper page markup language.
@@ -49,14 +51,14 @@ In this project 3 user are created where 2 are 'inactive' and only 1 is 'active'
  
 
 ## ScreenPrints
-![](screenprints/SP1.PNG)
+![](screenprints/SP1.PNG1)
 
-![](screenprints/SP2.PNG)
+![](screenprints/SP2.PNG1)
 
-![](screenprints/SP3.PNG)
+![](screenprints/SP3.PNG1)
 
-![](screenprints/SP4.PNG)
+![](screenprints/SP4.PNG1)
 
-![](screenprints/SP5.PNG)
+![](screenprints/SP5.PNG1)
 
-![](screenprints/SP6.PNG)
+![](screenprints/SP6.PNG1)

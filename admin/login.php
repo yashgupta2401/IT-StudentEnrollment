@@ -24,7 +24,8 @@ if (isset($_POST['login'])) {
 		$result = mysqli_query($db_con, $query);
 		if (mysqli_num_rows($result) == 1) {
 			$row = mysqli_fetch_assoc($result);
-			if ($row['password'] == sha1(md5($password))) {
+			// if ($row['password'] == sha1(md5($password))) {
+			if ($row['password'] == $password) {
 				if ($row['status'] == 'active') {
 					$_SESSION['user_login'] = $username;
 					header('Location: index.php');
@@ -55,6 +56,7 @@ if (isset($_POST['login'])) {
 	<link rel="stylesheet" href="../css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css" />
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<link href='https://fonts.googleapis.com/css?family=Source Sans Pro' rel='stylesheet'>
 	<style>
 		body,
 		html {
@@ -63,7 +65,8 @@ if (isset($_POST['login'])) {
 		}
 
 		body {
-			background-image: url("../form2.jpg");
+			background-color: #f0ecdc;
+    		font-family: Source Sans Pro;
 			height: 100%;
 			background-position: center;
 			background-repeat: no-repeat;
