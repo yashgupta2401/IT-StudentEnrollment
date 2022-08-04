@@ -1,5 +1,5 @@
 <?php
-define('DBHOST', 'localhost');
+define('DBHOST', 'wanporuniversity.ga:3306');
 define('DBUSER', 'wanpor-admin');
 define('DBNAME', 'student'); 
 
