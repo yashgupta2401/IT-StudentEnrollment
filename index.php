@@ -67,7 +67,7 @@
                 <p class="label-roll"><label for="roll">Roll No</label></p>
               </td>
               <td>
-                <input class="form-control" type="text" pattern="[0-9]{6}" id="roll" placeholder="Enter 6 Digit RollNo." name="roll">
+                <input class="form-control" type="text"  id="roll" placeholder="Enter Digit Enrolle No." name="roll">
               </td>
             </tr>
             <tr>
